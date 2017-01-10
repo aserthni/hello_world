@@ -1,2 +1,3 @@
 # hello_world
-learning......
+hey guys,
+my name is nishant shrinetra
